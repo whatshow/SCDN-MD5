@@ -1,3 +1,7 @@
+# jet brains
+.idea
+.idea/*
+
 # Logs
 logs
 *.log
